@@ -1,8 +1,11 @@
-html {
+body {
   height: 100%;
   width: 100%;
-}  p {
-    color: green;
+  background-color: rgb(130, 0, 210);
+}  .red {
+    color: red;
+  font-family: 'Times Old Roman', Times New Roman, serif;
+  } p {
   font-family: 'Times Old Roman', Times New Roman, serif;
   }
 
